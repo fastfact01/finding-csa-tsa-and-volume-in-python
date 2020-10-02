@@ -2,7 +2,7 @@
 #by rohit singh class 11 sci
 #version1.0
 #based on maths formule
-def T_S_A():
+def C_S_A():
 	print("---------------------------------------------------")
 	print("---------------------------------------------------")
 	print("wlecome to T.S.A finder:>")
