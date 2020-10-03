@@ -1,10 +1,9 @@
 ﻿#this prgram is a calculater of c.s.a,t.s.a and vol. of 3d shapes
-#by rohit singh class 11 sci
-#version1.0
+#by rohit singh 
 #based on maths formule
 def T_S_A():
 	print("---------------------------------------------------")
-	print("---------------------------------------------------")
+	print("----------------------------------------------------")
 	print("wlecome to T.S.A finder:>")
 	print("---------------------------------------------------")
 	print("---------------------------------------------------")
